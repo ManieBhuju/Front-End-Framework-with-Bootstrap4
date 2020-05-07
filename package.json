@@ -20,5 +20,8 @@
   "homepage": "https://github.com/ManieBhuju/Front-End-Framework-with-Bootstrap4#readme",
   "devDependencies": {
     "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "minimist": "^1.2.5"
   }
 }
