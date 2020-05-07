@@ -1,0 +1,19 @@
+{
+  "name": "front-end-framework-with-bootstrap4",
+  "version": "1.0.0",
+  "description": "This is just a sample",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManieBhuju/Front-End-Framework-with-Bootstrap4.git"
+  },
+  "author": "Manee Raj Bhuju",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManieBhuju/Front-End-Framework-with-Bootstrap4/issues"
+  },
+  "homepage": "https://github.com/ManieBhuju/Front-End-Framework-with-Bootstrap4#readme"
+}
